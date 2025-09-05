@@ -1,10 +1,9 @@
 🔬 # 2025-ElectronicDesignCompetition
 
-├── 📁 MaixCam/              MaixCam视觉算法
-├── 📁 STM32/                STM32固件代码（Keil工程）
-├── 📁 PCB/                  PCB设计文件（立创EDA）
-└── 📁 题目/                 比赛详细要求
-
+📁 MaixCam/              MaixCam视觉算法
+📁 STM32/                STM32固件代码（Keil工程）
+📁 PCB/                  PCB设计文件（立创EDA）
+📁 题目/                 比赛详细要求
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Hardware](https://img.shields.io/badge/Hardware-STMF103RCT6-00979D.svg)](https://www.st.com/)
