@@ -42,7 +42,7 @@
 - **布局优势**：采样电阻采用4线开尔文连接法，选择低温漂、高精度贴片电阻。
 
 ### 5. 🎥 视频链接 - BIlibili
--  [![点这里](https://img.shields.io/badge/Bilibili-点这里-00A1D6)](https://www.bilibili.com/video/BV1o9uvzvEtX)
+-  [![点这里](https://img.shields.io/badge/Bilibili-点这里-00A1D6)](https://www.bilibili.com/video/BV12Ca4zSEBL)
 ## 特别说明！！！！
 - 1.因为队友的数字模型没训练成功，所以数字那个发挥题只做了测距，没有做边长测量
 - 2.由于MaixCam使用的像素比较低，所以在远距离稍微做了一下线性补偿，是通过多次测量得到的一个值
